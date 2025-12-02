@@ -1,1 +1,2 @@
-![Wende's GitHub stats](https://github-readme-stats.vercel.app/api?username=wende&show_icons=true&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wende&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wende&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wende&theme=default)
