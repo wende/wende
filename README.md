@@ -3,6 +3,7 @@
 
 ### Current project #1:
 - 📱 [mobileclaw](https://github.com/wende/mobileclaw) — MVP Mobile-first chat UI for OpenClaw and LM Studio. Demo [mobileclaw.vercel.app](https://mobileclaw.vercel.app?demo)
+- 🎭 [macbeth](https://github.com/wende/macbeth) - Playwright but for MacOS native apps
 
 ### AI Quality & Context Intelligence
 - 🧪 [qai](https://github.com/wende/qai) — PoC - Agent-driven behavioral contract verification for applications.
